@@ -6,10 +6,9 @@ Le matériel de l'atelier : une skill à installer, des consignes prêtes à col
 
 | Fichier | À quoi il sert |
 |---|---|
+| [`guide-cowork.pdf`](guide-cowork.pdf) | **Le mode d'emploi à imprimer** (3 pages) : utiliser Cowork, créer une skill, planifier une tâche, brancher Outlook, les bonnes règles, et quoi faire si ça ne marche pas. |
 | [`creer-skill.zip`](creer-skill.zip) | La skill « créer une skill en parlant ». À importer dans Cowork (voir plus bas). |
 | [`creer-skill/SKILL.md`](creer-skill/SKILL.md) | Le contenu de cette skill, à lire pour savoir ce qu'elle fait. |
-| [`fiche-creer-skill.pdf`](fiche-creer-skill.pdf) | **La fiche à imprimer** (1 page A4) : le modèle à remplir pour créer une skill, avec les conseils. À laisser sur place. |
-| [`modele-creation-skill.md`](modele-creation-skill.md) | Le même modèle en texte, à copier-coller dans Cowork. |
 | [`consigne-veille-hebdo.txt`](consigne-veille-hebdo.txt) | La consigne de la veille hebdomadaire, à coller dans une tâche planifiée. |
 | [`stock-exemple.xlsx`](stock-exemple.xlsx) | Un faux export de stock (12 vins fictifs), si le vrai export n'est pas prêt. |
 | [`demo-classement/`](demo-classement) | Le dossier test du classement des pièces : 6 pièces fictives dans « À classer », dont 2 pièges. |

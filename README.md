@@ -37,6 +37,12 @@ Sans le nom, Claude peut prendre sa méthode générale de création, qui marche
 2. Fréquence : chaque semaine, le lundi à 8 h. Ne choisir **aucun dossier** : la tâche tourne alors même quand le PC est éteint.
 3. Coller la consigne de `consigne-veille-hebdo.txt`, cliquer sur **Enregistrer**, puis la lancer une fois pour voir le résultat.
 
+## Démo du stock
+
+1. Mettre l'export Excel du stock (ou `stock-exemple.xlsx`) dans un dossier, puis choisir ce dossier dans Cowork.
+2. Demander : « Combien il reste de Chablis La Démo 2023 ? », puis « Quels vins seront en rupture dans moins de 2 mois au rythme actuel ? », puis « Fais-moi un tableau Excel des vins à produire en priorité. »
+3. Avec le fichier fictif, réponses attendues : 456 bouteilles de Chablis ; 5 vins en rupture dans moins de 2 mois, le rosé « L'Exercice » en premier.
+
 ## Démo du classement des pièces
 
 1. Dans Cowork, choisir le dossier **demo-classement** (pas le dossier du kit entier, sinon Claude verrait le corrigé).

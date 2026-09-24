@@ -43,6 +43,13 @@ Sans le nom, Claude peut prendre sa méthode générale de création, qui marche
 2. Demander : « Combien il reste de Chablis La Démo 2023 ? », puis « Quels vins seront en rupture dans moins de 2 mois au rythme actuel ? », puis « Fais-moi un tableau Excel des vins à produire en priorité. »
 3. Avec le fichier fictif, réponses attendues : 456 bouteilles de Chablis ; 5 vins en rupture dans moins de 2 mois, le rosé « L'Exercice » en premier.
 
+## Démo de l'offre client
+
+1. Retrouver dans Outlook un ancien mail d'offre, et avoir en tête l'offre du moment (le vin, le prix, la date limite).
+2. Dans Cowork : « Utilise la compétence creer-skill : je veux créer une compétence qui rédige un mail d'offre personnalisé pour un client. » Coller l'ancien mail comme modèle.
+3. Répondre aux questions de Claude (ton, signature, ce qu'il ne doit jamais faire), puis tester sur un vrai client, par exemple : « Prépare l'offre pour le restaurant Le Bon Exemple : Chablis 2023 à 18 € la bouteille, valable jusqu'au 15 octobre. »
+4. Si le mail convient : **Enregistrer**. Sinon : « modifie la compétence pour que… ».
+
 ## Démo du classement des pièces
 
 1. Dans Cowork, choisir le dossier **demo-classement** (pas le dossier du kit entier, sinon Claude verrait le corrigé).

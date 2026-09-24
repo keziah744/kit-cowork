@@ -1,0 +1,16 @@
+DOSSIER TEST — CLASSEMENT DES PIÈCES (documents fictifs)
+
+1. Dans Cowork, choisir le dossier « demo-classement » (PAS le dossier du kit entier : ce corrigé serait visible).
+
+2. Phrase de départ à coller :
+Je veux créer une skill qui classe mes pièces. Tout ce qui est dans « À classer » doit être renommé au format AAAA-MM-JJ_CODE_Type_Emetteur.pdf (date du document, sans espaces ni accents), puis rangé dans le dossier de l'entité (crée-le s'il n'existe pas). Entités : MEX = SAS Maison Exemple, DEX = SCEA Domaine Exemple, CEX = SCI Les Caves Exemple. Si tu hésites, laisse la pièce dans « À classer » et mets-la dans la liste à trancher. Ne supprime jamais rien.
+
+3. Résultat attendu :
+scan_0012.pdf     -> DEX\2026-09-15_DEX_Facture_AssurancesDuVal.pdf
+Facture sept.pdf  -> MEX\2026-09-03_MEX_Facture_ImprimerieDesCoteaux.pdf
+IMG_2045.pdf      -> MEX\2026-09-10_MEX_Devis_TonnellerieExemple.pdf
+relevé.pdf        -> CEX\2026-08-31_CEX_Releve_BanqueExemple.pdf
+doc (3).pdf       -> À TRANCHER : bail entre deux sociétés du groupe (CEX bailleur, MEX preneur)
+courrier.pdf      -> À TRANCHER : aucune société destinataire
+
+4. Pour recommencer à zéro : re-télécharger le kit.

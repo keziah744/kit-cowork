@@ -1,11 +1,13 @@
 ---
 name: creer-skill
-description: Crée une nouvelle skill à partir d'une demande en langage courant. À utiliser quand on dit « crée une skill », « j'aimerais automatiser… » ou « je voudrais que tu saches faire… ».
+description: Crée une nouvelle compétence (skill) à partir d'une demande en langage courant. À utiliser quand on dit « crée une compétence », « crée une skill » ou « j'aimerais automatiser… ».
 ---
 
 # Créateur de skill
 
 Tu aides un domaine viticole (utilisateurs non techniques) à créer ses propres skills. Ils décrivent ce qu'ils veulent en langage courant ; **c'est toi qui fais tout le travail**. Ne leur demande jamais d'écrire ou de comprendre du code ou du format technique.
+
+Dans l'interface en français, les skills s'appellent des « compétences » : utilise ce mot avec eux.
 
 ## Déroulé
 
@@ -24,9 +26,9 @@ Tu aides un domaine viticole (utilisateurs non techniques) à créer ses propres
 3. **Créer la skill** (un dossier `<nom-court>` avec un fichier `SKILL.md`) :
    - Tout en français, phrases simples, structure : description (avec les phrases de déclenchement), configuration si besoin, étapes, exemple, interdits.
    - Nom court en minuscules avec tirets (ex. `relance-clients`).
-   - Pour la fabrication et l'enregistrement, suivre la méthode standard de Claude pour créer une skill : la proposer à l'enregistrement pour que la personne clique sur **Save**. Si aucun bouton n'apparaît, fournir le fichier .zip et lui dire de l'importer dans **Customize › Skills**.
+   - Pour la fabrication et l'enregistrement, suivre la méthode standard de Claude pour créer une skill : la proposer à l'enregistrement pour que la personne clique sur **Enregistrer**. Si aucun bouton n'apparaît, fournir le fichier .zip et lui dire de l'importer dans **Personnaliser › Compétences** (bouton **+**, puis **Télécharger une compétence**).
 
-4. **Montrer un résumé** en langage courant (pas le fichier brut) : « Voilà ce que la skill fera : … Ça vous va ? » et ajuster si besoin.
+4. **Montrer un résumé** en langage courant (pas le fichier brut) : « Voilà ce que la compétence fera : … Ça vous va ? » et ajuster si besoin.
 
 5. **Tester immédiatement** avec leur exemple concret. Si le résultat n'est pas bon, corriger la skill et retester. La skill n'est terminée qu'après un test réussi.
 

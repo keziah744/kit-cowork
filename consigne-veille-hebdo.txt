@@ -1,5 +1,5 @@
 VEILLE HEBDO — consigne à coller dans Cowork
-(Scheduled › New task › Set up manually · Fréquence : chaque semaine, lundi 8 h · Dossier : aucun)
+(Planifiées › Nouvelle tâche › Configurer manuellement · Fréquence : chaque semaine, lundi 8 h · Dossier : aucun)
 
 ----------------------------------------------------------------------
 

@@ -25,9 +25,9 @@ Sur un abonnement Team, l'administrateur doit d'abord autoriser les skills pour 
 
 ## Lancer la skill
 
-- Parler normalement : « j'aimerais automatiser… » ou « crée une skill qui… ».
-- Pour être sûr : « Utilise la skill creer-skill : j'aimerais automatiser… ».
-- Ou taper `/` dans la zone de message et la choisir.
+Le plus sûr : écrire « Utilise la skill creer-skill : je veux créer une skill qui… », ou taper `/` dans la zone de message et choisir creer-skill.
+
+Sans le nom, Claude peut prendre sa méthode générale de création de skill, qui marche aussi mais qui est plus technique.
 
 ## Créer la veille hebdomadaire
 
